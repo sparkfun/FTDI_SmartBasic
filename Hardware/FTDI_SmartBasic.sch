@@ -25645,7 +25645,7 @@ Arduino Pro,
 Pro Mini,
 LilyPad, etc.</text>
 <text x="167.64" y="7.62" size="3.81" layer="91" font="vector">Mike Hord</text>
-<text x="239.014" y="6.604" size="3.81" layer="91" font="vector">01</text>
+<text x="239.014" y="6.604" size="3.81" layer="91" font="vector">02</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0"/>
