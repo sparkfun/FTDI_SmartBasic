@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="6.6.0">
+<eagle version="6.5.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -137,7 +137,7 @@
 <layer number="251" name="SMDround" color="12" fill="11" visible="no" active="no"/>
 <layer number="254" name="cooling" color="7" fill="1" visible="yes" active="yes"/>
 </layers>
-<schematic xreflabel="%F%N/%S.%C%R" xrefpart="1_/%S.%C%R">
+<schematic xreflabel="%F%N/%S" xrefpart="1_/%S.%C%R">
 <libraries>
 <library name="SparkFun-Aesthetics">
 <description>&lt;h3&gt;SparkFun Electronics' preferred foot prints&lt;/h3&gt;
@@ -25677,7 +25677,7 @@ Arduino Pro,
 Pro Mini,
 LilyPad, etc.</text>
 <text x="167.64" y="7.62" size="3.81" layer="91" font="vector">Mike Hord</text>
-<text x="236.22" y="6.35" size="3.81" layer="91" font="vector">10.0</text>
+<text x="236.22" y="6.35" size="3.81" layer="91" font="vector">11.0</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0"/>
