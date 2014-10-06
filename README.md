@@ -1,6 +1,6 @@
 FTDI_SmartBasic
 ===============
-[![FTDI SmartBasic](https://cdn.sparkfun.com//assets/parts/9/8/6/1/12935-01.jpg)
+[![FTDI SmartBasic](https://cdn.sparkfun.com//assets/parts/9/8/6/1/12935-01.jpg)  
 *FTDI SmartBasic (DEV-12935)*](https://www.sparkfun.com/products/12935)
 
 The FTDI SmartBasic uses a multiplexer to allow you to multiplex multiple serial 
